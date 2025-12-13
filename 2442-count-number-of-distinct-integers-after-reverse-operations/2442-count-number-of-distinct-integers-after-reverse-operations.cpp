@@ -8,7 +8,7 @@ public:
             digit = digit  / 10 ;
 
         }
-        return digit ;
+        return r ;
     }
     int countDistinctIntegers(vector<int>& nums) {
 
