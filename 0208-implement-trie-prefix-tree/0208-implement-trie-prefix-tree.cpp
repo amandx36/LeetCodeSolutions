@@ -40,7 +40,7 @@ public:
         return curr->isTerminal;
     }
 
-    bool startsWith(string prefix) {   // 👈 LeetCode exact name
+    bool startsWith(string prefix) {  
         Node* curr = root;
         for (char ch : prefix) {
             if (curr->children.count(ch) == 0) {
