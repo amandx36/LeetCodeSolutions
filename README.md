@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/amandx36/LeetCodeSolutions/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
