@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amandx36/LeetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amandx36/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/amandx36/LeetCodeSolutions/tree/master/0704-binary-search) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/amandx36/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/amandx36/LeetCodeSolutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amandx36/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/amandx36/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/amandx36/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/amandx36/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/amandx36/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/amandx36/LeetCodeSolutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -56,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 ## Database
 |  |
