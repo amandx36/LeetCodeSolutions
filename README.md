@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amandx36/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/amandx36/LeetCodeSolutions/tree/master/0704-binary-search) |
+| [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amandx36/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amandx36/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/amandx36/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
+| [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amandx36/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0771-jewels-and-stones](https://github.com/amandx36/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
+| [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 ## Sliding Window
 |  |
 | ------- |
