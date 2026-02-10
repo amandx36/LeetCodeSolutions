@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/amandx36/LeetCodeSolutions/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/amandx36/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/amandx36/LeetCodeSolutions/tree/master/0283-move-zeroes) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amandx36/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/amandx36/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0771-jewels-and-stones](https://github.com/amandx36/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 ## Sliding Window
