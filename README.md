@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/amandx36/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/amandx36/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amandx36/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/amandx36/LeetCodeSolutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/amandx36/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/amandx36/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/amandx36/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/amandx36/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/amandx36/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 ## Sliding Window
