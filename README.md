@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amandx36/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amandx36/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/amandx36/LeetCodeSolutions/tree/master/0704-binary-search) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/amandx36/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/amandx36/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amandx36/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/amandx36/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/amandx36/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/amandx36/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/amandx36/LeetCodeSolutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/amandx36/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 ## Database
