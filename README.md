@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/amandx36/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/amandx36/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/amandx36/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/amandx36/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/amandx36/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/amandx36/LeetCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/amandx36/LeetCodeSolutions/tree/master/0162-find-peak-element) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/amandx36/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0268-missing-number) |
