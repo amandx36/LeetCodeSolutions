@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/amandx36/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/amandx36/LeetCodeSolutions/tree/master/0110-balanced-binary-tree) |
 | [0547-number-of-provinces](https://github.com/amandx36/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/amandx36/LeetCodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/amandx36/LeetCodeSolutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amandx36/LeetCodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/amandx36/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/amandx36/LeetCodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amandx36/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/amandx36/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/amandx36/LeetCodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/amandx36/LeetCodeSolutions/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/amandx36/LeetCodeSolutions/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/amandx36/LeetCodeSolutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1971-find-if-path-exists-in-graph](https://github.com/amandx36/LeetCodeSolutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Prefix Sum
 |  |
 | ------- |
