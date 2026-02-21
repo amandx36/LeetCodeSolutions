@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/amandx36/LeetCodeSolutions/tree/master/0704-binary-search) |
 | [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/amandx36/LeetCodeSolutions/tree/master/0997-find-the-town-judge) |
+| [1710-maximum-units-on-a-truck](https://github.com/amandx36/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amandx36/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amandx36/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/amandx36/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/amandx36/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Database
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [1710-maximum-units-on-a-truck](https://github.com/amandx36/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
 | ------- |
