@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/amandx36/LeetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amandx36/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/amandx36/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/amandx36/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/amandx36/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/amandx36/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Database
