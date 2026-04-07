@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/amandx36/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
