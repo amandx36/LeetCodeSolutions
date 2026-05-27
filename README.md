@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amandx36/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/amandx36/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0202-happy-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amandx36/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/amandx36/LeetCodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/amandx36/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amandx36/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/amandx36/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/amandx36/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
