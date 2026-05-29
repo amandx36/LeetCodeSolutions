@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/amandx36/LeetCodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/amandx36/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/amandx36/LeetCodeSolutions/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/amandx36/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amandx36/LeetCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0997-find-the-town-judge](https://github.com/amandx36/LeetCodeSolutions/tree/master/0997-find-the-town-judge) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/amandx36/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/amandx36/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amandx36/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Tree
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/amandx36/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/amandx36/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/amandx36/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/amandx36/LeetCodeSolutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Dynamic Programming
 |  |
