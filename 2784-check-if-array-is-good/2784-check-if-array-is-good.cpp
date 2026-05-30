@@ -1,37 +1,52 @@
 class Solution {
 public:
     bool isGood(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
+        sort(nums.begin(), nums.end());
+        // int n = nums.size();
+
+        // // extract the maxiii element
+        // int maxiii = INT_MIN;
+        // for (int i = 0; i < n; i++) {
+        //     if (nums[i] > maxiii)
+        //         maxiii = nums[i];
+        // }
+        // if (nums.size() - 1 != maxiii)
+        //     return false;
+
+        // // count the number of last occurance  element
+        // // put in  map
+        // unordered_map<int, int> freq;
+        // for (int i = 0; i < n; i++) {
+        //     freq[nums[i]]++;
+        // }
+
+        // // now check the number of maxi element dude
+
+        // if (freq[maxiii] != 2)
+        //     return false;
+
+        // //  now check eery element is unique or not
+        // for (auto it : freq) {
+        //     if (it.first != maxiii && it.second != 1) {
+        //         return false;
+        //     }
+        // }
+        // return true;
+
+
+        // Method 02 best one 
+
+         sort(nums.begin(), nums.end());
+
         int n = nums.size();
 
-        // extract the maxiii element 
-        int maxiii = INT_MIN;
-        for(int  i = 0 ; i < n ; i++){
-            if(nums[i]>maxiii) maxiii= nums[i];
+        if(nums[n - 1] != n - 1) return false;
+
+        // check 1,2,3,...,n-1
+        for(int i = 0; i < n - 1; i++){
+            if(nums[i] != i + 1) return false;
         }
-        if(nums.size()-1!=maxiii) return false ;
-
-        // count the number of last occurance  element 
-        // put in  map 
-        unordered_map<int,int>freq;
-        for(int i = 0 ; i <  n ; i++){
-            freq[nums[i]]++;
-            
-        }
-
-        // now check the number of maxi element dude 
-       
-            if(freq[maxiii]!=2) return false  ;
-            
-
-      
-
-        //  now check eery element is unique or not 
-        for(auto it : freq){
-            if(it.first != maxiii && it.second != 1){
-        return false;
-    }
-}
-        return true ;
+        // constrain last 2  must rqual 
+        return nums[n - 1] == nums[n - 2];
     }
 };
