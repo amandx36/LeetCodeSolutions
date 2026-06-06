@@ -1,40 +1,45 @@
 class Solution {
 public:
     vector<int> distinctDifferenceArray(vector<int>& nums) {
+        vector<int> prefixDistinct;
+        unordered_set<int> seen;
 
-        vector<int> suffDiff;
-        unordered_set<int> st;
         int n = nums.size();
-        int nigga = 0;
-        for (int i = 0; i < nums.size(); i++) {
-            if (st.find(nums[i]) == st.end())
-                nigga++;
-            suffDiff.push_back(nigga);
-            st.insert(nums[i]);
+        int distinctCount = 0;
+
+        
+        for (int i = 0; i < n; i++) {
+            if (seen.find(nums[i]) == seen.end())
+                distinctCount++;
+
+            prefixDistinct.push_back(distinctCount);
+            seen.insert(nums[i]);
         }
 
-        // now for the suffix difference
-        st.clear();
+        
+        seen.clear();
+        distinctCount = 0;
 
-        // reverse
-        nigga = 0;
-        vector<int> preDiff;
-        preDiff.push_back(0);
+        vector<int> suffixDistinct;
+        suffixDistinct.push_back(0);
+
         for (int i = n - 1; i > 0; i--) {
-            if (st.find(nums[i]) == st.end())
-                nigga++;
-            preDiff.push_back(nigga);
-            st.insert(nums[i]);
-        }
-        reverse(preDiff.begin(), preDiff.end());
+            if (seen.find(nums[i]) == seen.end())
+                distinctCount++;
 
-        vector<int> ans;
+            suffixDistinct.push_back(distinctCount);
+            seen.insert(nums[i]);
+        }
+
+        reverse(suffixDistinct.begin(), suffixDistinct.end());
+
+       
+        vector<int> answer;
 
         for (int i = 0; i < n; i++) {
-            int result = suffDiff[i] - preDiff[i];
-            ans.push_back(result);
+            answer.push_back(prefixDistinct[i] - suffixDistinct[i]);
         }
 
-        return ans;
+        return answer;
     }
 };
