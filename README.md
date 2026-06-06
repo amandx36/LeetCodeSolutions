@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/amandx36/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/amandx36/LeetCodeSolutions/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/amandx36/LeetCodeSolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/amandx36/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amandx36/LeetCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/amandx36/LeetCodeSolutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/amandx36/LeetCodeSolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1710-maximum-units-on-a-truck](https://github.com/amandx36/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amandx36/LeetCodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/amandx36/LeetCodeSolutions/tree/master/2126-destroying-asteroids) |
