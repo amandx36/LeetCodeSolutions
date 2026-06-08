@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/amandx36/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/amandx36/LeetCodeSolutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/amandx36/LeetCodeSolutions/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/amandx36/LeetCodeSolutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/amandx36/LeetCodeSolutions/tree/master/0476-number-complement) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amandx36/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
