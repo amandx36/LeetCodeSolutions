@@ -4,6 +4,7 @@ public:
         int result  = ( x ^ y ) ;
         int count = 0 ;
         while (result!=0){
+            // count total number of set bit 
             result = (result & (result-1));
             count++;
         }
