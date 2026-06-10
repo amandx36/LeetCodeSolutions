@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/amandx36/LeetCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/amandx36/LeetCodeSolutions/tree/master/0997-find-the-town-judge) |
+| [1266-minimum-time-visiting-all-points](https://github.com/amandx36/LeetCodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amandx36/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1652-defuse-the-bomb](https://github.com/amandx36/LeetCodeSolutions/tree/master/1652-defuse-the-bomb) |
 | [1710-maximum-units-on-a-truck](https://github.com/amandx36/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/amandx36/LeetCodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/amandx36/LeetCodeSolutions/tree/master/0342-power-of-four) |
+| [1266-minimum-time-visiting-all-points](https://github.com/amandx36/LeetCodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amandx36/LeetCodeSolutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/amandx36/LeetCodeSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amandx36/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/amandx36/LeetCodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
