@@ -1,0 +1,30 @@
+class Solution {
+public:
+    bool hasAlternatingBits(int n) {
+
+        // total set bit 
+        int temp = n;
+        int count = 0;
+        while (temp != 0) {
+            count++;
+            temp = temp >> 1;
+        }
+        // making the bit
+        int p1 = 0; // 1010
+        int p2 = 0; // 0101
+
+        for (int i = 0; i < count; i++) {
+
+            p1 <<= 1;
+            p2 <<= 1;
+
+            if (i % 2 == 0) {
+                p1 = p1 | 1;
+            } else {
+                p2 = p2 | 1;
+            }
+        }
+
+        return (n == p1) || (n == p2);
+    }
+};
