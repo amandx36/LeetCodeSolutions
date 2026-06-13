@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/amandx36/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/amandx36/LeetCodeSolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amandx36/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/amandx36/LeetCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/amandx36/LeetCodeSolutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/0189-rotate-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/amandx36/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/amandx36/LeetCodeSolutions/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amandx36/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/amandx36/LeetCodeSolutions/tree/master/0231-power-of-two) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/amandx36/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/amandx36/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Graph Theory
