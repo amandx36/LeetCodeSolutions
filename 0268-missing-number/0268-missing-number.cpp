@@ -1,13 +1,13 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        // TC    nlogn  
-        int n  = nums.size();
+        int n = nums.size();
+        if(n<0) return n ;
         sort(nums.begin(),nums.end());
-        for (int i = 0 ; i < n ; i++){
-            if(nums[i]!=i) return i ;
+        int ld = nums[n-1];
+        for (int i = 0 ; i < ld ; i++){
+            if((nums[i]^i) != 0 ) return i ;
         }
-        return n ;
-        
+        return  n ;
     }
 };
