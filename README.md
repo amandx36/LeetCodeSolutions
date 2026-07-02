@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/amandx36/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/amandx36/LeetCodeSolutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amandx36/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amandx36/LeetCodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/amandx36/LeetCodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/amandx36/LeetCodeSolutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amandx36/LeetCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amandx36/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amandx36/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
