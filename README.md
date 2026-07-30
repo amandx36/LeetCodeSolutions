@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/amandx36/LeetCodeSolutions/tree/master/0610-triangle-judgement) |
+| [1757-recyclable-and-low-fat-products](https://github.com/amandx36/LeetCodeSolutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
 | ------- |
