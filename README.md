@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/amandx36/LeetCodeSolutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1266-minimum-time-visiting-all-points](https://github.com/amandx36/LeetCodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amandx36/LeetCodeSolutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/amandx36/LeetCodeSolutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/amandx36/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/amandx36/LeetCodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amandx36/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amandx36/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amandx36/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sliding Window
