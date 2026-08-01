@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/amandx36/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/amandx36/LeetCodeSolutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/amandx36/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/amandx36/LeetCodeSolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/amandx36/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
 | [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amandx36/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/amandx36/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/amandx36/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/amandx36/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/amandx36/LeetCodeSolutions/tree/master/2574-left-and-right-sum-differences) |
 ## Divide and Conquer
