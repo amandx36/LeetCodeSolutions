@@ -19,9 +19,9 @@ public:
         int minPurchase = INT_MAX ;
         int n  = prices.size();
         int maxProfit = 0 ;
-        for(int i = 0 ; i < n ; i++){
-             minPurchase = min(minPurchase,prices[i]);
-           int profit = prices[i] - minPurchase;
+        for (auto ele : prices){
+             minPurchase = min(minPurchase,ele);
+           int profit = ele- minPurchase;
             maxProfit = max(maxProfit,profit);
 
 
