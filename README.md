@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/amandx36/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/amandx36/LeetCodeSolutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/amandx36/LeetCodeSolutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/amandx36/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/amandx36/LeetCodeSolutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/amandx36/LeetCodeSolutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/amandx36/LeetCodeSolutions/tree/master/0867-transpose-matrix) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/amandx36/LeetCodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/amandx36/LeetCodeSolutions/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/amandx36/LeetCodeSolutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/amandx36/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/amandx36/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/amandx36/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/amandx36/LeetCodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/amandx36/LeetCodeSolutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/amandx36/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amandx36/LeetCodeSolutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/amandx36/LeetCodeSolutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amandx36/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amandx36/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/amandx36/LeetCodeSolutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/amandx36/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 ## Geometry
 |  |
 | ------- |
@@ -435,4 +439,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/amandx36/LeetCodeSolutions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/amandx36/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
