@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amandx36/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/amandx36/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/amandx36/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amandx36/LeetCodeSolutions/tree/master/0016-3sum-closest) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amandx36/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/amandx36/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/amandx36/LeetCodeSolutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/amandx36/LeetCodeSolutions/tree/master/0018-4sum) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amandx36/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/amandx36/LeetCodeSolutions/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/amandx36/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/amandx36/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
