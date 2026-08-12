@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amandx36/LeetCodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/amandx36/LeetCodeSolutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/amandx36/LeetCodeSolutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/amandx36/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/amandx36/LeetCodeSolutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/amandx36/LeetCodeSolutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amandx36/LeetCodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/amandx36/LeetCodeSolutions/tree/master/0031-next-permutation) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/amandx36/LeetCodeSolutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/amandx36/LeetCodeSolutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/amandx36/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/amandx36/LeetCodeSolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/amandx36/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
