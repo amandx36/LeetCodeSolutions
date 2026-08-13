@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amandx36/LeetCodeSolutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2105-watering-plants-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/2105-watering-plants-ii) |
 | [2126-destroying-asteroids](https://github.com/amandx36/LeetCodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/amandx36/LeetCodeSolutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amandx36/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/amandx36/LeetCodeSolutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/amandx36/LeetCodeSolutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amandx36/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2105-watering-plants-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amandx36/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amandx36/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/amandx36/LeetCodeSolutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/amandx36/LeetCodeSolutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/1929-concatenation-of-array) |
+| [2105-watering-plants-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amandx36/LeetCodeSolutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amandx36/LeetCodeSolutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/2460-apply-operations-to-an-array) |
