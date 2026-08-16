@@ -15,6 +15,7 @@ public:
         s+=word1[s1];
         s1++;
       }
+    //   if s2 left the words
       while(s2<word2.length()){
         s+=word2[s2];
         s2++;
