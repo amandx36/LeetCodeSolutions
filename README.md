@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/amandx36/LeetCodeSolutions/tree/master/0942-di-string-match) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/amandx36/LeetCodeSolutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/amandx36/LeetCodeSolutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/amandx36/LeetCodeSolutions/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/amandx36/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/amandx36/LeetCodeSolutions/tree/master/2000-reverse-prefix-of-word) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/amandx36/LeetCodeSolutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amandx36/LeetCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/amandx36/LeetCodeSolutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1754-largest-merge-of-two-strings](https://github.com/amandx36/LeetCodeSolutions/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/amandx36/LeetCodeSolutions/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amandx36/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
