@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/amandx36/LeetCodeSolutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/amandx36/LeetCodeSolutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/amandx36/LeetCodeSolutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
+| [2938-separate-black-and-white-balls](https://github.com/amandx36/LeetCodeSolutions/tree/master/2938-separate-black-and-white-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/amandx36/LeetCodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amandx36/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/amandx36/LeetCodeSolutions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2938-separate-black-and-white-balls](https://github.com/amandx36/LeetCodeSolutions/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/amandx36/LeetCodeSolutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/amandx36/LeetCodeSolutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2938-separate-black-and-white-balls](https://github.com/amandx36/LeetCodeSolutions/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/amandx36/LeetCodeSolutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/3120-count-the-number-of-special-characters-i) |
