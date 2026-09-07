@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/amandx36/LeetCodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/amandx36/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/amandx36/LeetCodeSolutions/tree/master/0392-is-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/amandx36/LeetCodeSolutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/0796-rotate-string) |
 | [0929-unique-email-addresses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0929-unique-email-addresses) |
+| [0940-distinct-subsequences-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/amandx36/LeetCodeSolutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/amandx36/LeetCodeSolutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
