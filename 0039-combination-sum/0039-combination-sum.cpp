@@ -5,13 +5,13 @@ public:
   vector<vector<int>> count(vector<vector<int>> ans, int target, int i, int sum,
                             vector<int> curr, vector<int> &candidates) {
 
-    // Target mil gaya
+   
     if (sum == target) {
       ans.push_back(curr);
       return ans;
     }
 
-    // Index out of bounds
+    // index out of bound 
     if (i >= candidates.size())
       return ans;
 
@@ -19,9 +19,7 @@ public:
     if (sum > target)
       return ans;
 
-    // -------------------------
-    // OPTION 1: current element
-    // -------------------------
+    //  current element
 
     curr.push_back(candidates[i]);
     sum += candidates[i];
@@ -32,9 +30,8 @@ public:
     sum -= candidates[i];
     curr.pop_back();
 
-    // -------------------------
-    // OPTION 2: next element
-    // -------------------------
+    
+    //  choose next  2: next element
 
     ans = count(ans, target, i + 1, sum, curr, candidates);
 
