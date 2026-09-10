@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/amandx36/LeetCodeSolutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/amandx36/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/amandx36/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/amandx36/LeetCodeSolutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/amandx36/LeetCodeSolutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/amandx36/LeetCodeSolutions/tree/master/0066-plus-one) |
@@ -599,4 +600,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/amandx36/LeetCodeSolutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
