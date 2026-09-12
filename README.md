@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/amandx36/LeetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/amandx36/LeetCodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/amandx36/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0636-exclusive-time-of-functions](https://github.com/amandx36/LeetCodeSolutions/tree/master/0636-exclusive-time-of-functions) |
 | [1021-remove-outermost-parentheses](https://github.com/amandx36/LeetCodeSolutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/amandx36/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/amandx36/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/amandx36/LeetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/amandx36/LeetCodeSolutions/tree/master/0706-design-hashmap) |
@@ -608,4 +610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/amandx36/LeetCodeSolutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/amandx36/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
