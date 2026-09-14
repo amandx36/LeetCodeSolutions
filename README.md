@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/amandx36/LeetCodeSolutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1652-defuse-the-bomb](https://github.com/amandx36/LeetCodeSolutions/tree/master/1652-defuse-the-bomb) |
+| [1670-design-front-middle-back-queue](https://github.com/amandx36/LeetCodeSolutions/tree/master/1670-design-front-middle-back-queue) |
 | [1710-maximum-units-on-a-truck](https://github.com/amandx36/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/amandx36/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amandx36/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/amandx36/LeetCodeSolutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/amandx36/LeetCodeSolutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amandx36/LeetCodeSolutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1670-design-front-middle-back-queue](https://github.com/amandx36/LeetCodeSolutions/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/amandx36/LeetCodeSolutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amandx36/LeetCodeSolutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/amandx36/LeetCodeSolutions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/amandx36/LeetCodeSolutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/amandx36/LeetCodeSolutions/tree/master/0706-design-hashmap) |
+| [1670-design-front-middle-back-queue](https://github.com/amandx36/LeetCodeSolutions/tree/master/1670-design-front-middle-back-queue) |
 ## Geometry
 |  |
 | ------- |
@@ -620,5 +623,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/amandx36/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
+| [1670-design-front-middle-back-queue](https://github.com/amandx36/LeetCodeSolutions/tree/master/1670-design-front-middle-back-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/amandx36/LeetCodeSolutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/amandx36/LeetCodeSolutions/tree/master/1670-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/amandx36/LeetCodeSolutions/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
