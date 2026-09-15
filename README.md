@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/amandx36/LeetCodeSolutions/tree/master/2460-apply-operations-to-an-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amandx36/LeetCodeSolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/amandx36/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/amandx36/LeetCodeSolutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/amandx36/LeetCodeSolutions/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/amandx36/LeetCodeSolutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/amandx36/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/amandx36/LeetCodeSolutions/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amandx36/LeetCodeSolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/amandx36/LeetCodeSolutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/amandx36/LeetCodeSolutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/amandx36/LeetCodeSolutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amandx36/LeetCodeSolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/amandx36/LeetCodeSolutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2938-separate-black-and-white-balls](https://github.com/amandx36/LeetCodeSolutions/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/amandx36/LeetCodeSolutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/amandx36/LeetCodeSolutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/amandx36/LeetCodeSolutions/tree/master/2000-reverse-prefix-of-word) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/2337-move-pieces-to-obtain-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amandx36/LeetCodeSolutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/amandx36/LeetCodeSolutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/amandx36/LeetCodeSolutions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/amandx36/LeetCodeSolutions/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
