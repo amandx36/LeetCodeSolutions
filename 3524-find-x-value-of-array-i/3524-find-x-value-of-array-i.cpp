@@ -9,10 +9,8 @@ public:
 
             vector<long long> curr(k, 0);
 
-            // Sirf x se ek naya subarray
             curr[x % k]++;
 
-            // Purane subarrays ke saath x add karo
             for (int r = 0; r < k; r++) {
 
                 int newRem = (r * (x % k)) % k;
@@ -20,7 +18,6 @@ public:
                 curr[newRem] += prev[r];
             }
 
-            // Current position ke subarrays ko answer mein add karo
             for (int r = 0; r < k; r++) {
                 ans[r] += curr[r];
             }
