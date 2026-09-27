@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-design-front-middle-back-queue](https://github.com/amandx36/LeetCodeSolutions/tree/master/1670-design-front-middle-back-queue) |
 | [1710-maximum-units-on-a-truck](https://github.com/amandx36/LeetCodeSolutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/amandx36/LeetCodeSolutions/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/amandx36/LeetCodeSolutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/amandx36/LeetCodeSolutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-sentence-similarity-iii](https://github.com/amandx36/LeetCodeSolutions/tree/master/1813-sentence-similarity-iii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amandx36/LeetCodeSolutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amandx36/LeetCodeSolutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amandx36/LeetCodeSolutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1748-sum-of-unique-elements](https://github.com/amandx36/LeetCodeSolutions/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amandx36/LeetCodeSolutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/amandx36/LeetCodeSolutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2540-minimum-common-value](https://github.com/amandx36/LeetCodeSolutions/tree/master/2540-minimum-common-value) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/amandx36/LeetCodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/amandx36/LeetCodeSolutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1748-sum-of-unique-elements](https://github.com/amandx36/LeetCodeSolutions/tree/master/1748-sum-of-unique-elements) |
 ## Quickselect
 |  |
 | ------- |
